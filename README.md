@@ -12,7 +12,7 @@
 ## Встановлення
 
 1. Клонуй репозиторій
-git clone https://github.com/твій_нік/OverlayTimer-in-macOs.git
+git clone https://github.com/Alex-cpu343/OverlayTimer-in-macOs.git
 
 2. Відкрий в Xcode
 Двічі клікни на файл OverlayTimer.xcodeproj
@@ -45,7 +45,7 @@ Built with C++ and Objective-C++ using no external libraries.
 ## Installation
 
 1. Clone the repository
-git clone https://github.com/your_name/OverlayTimer-in-macOs.git
+git clone https://github.com/Alex-cpu343/OverlayTimer-in-macOs.git
 
 2. Open in Xcode
 Double click OverlayTimer.xcodeproj
